@@ -1,0 +1,35 @@
+# Source files
+src/
+
+# Configuration files
+tsconfig.json
+rollup.config.js
+.eslintrc.js
+.gitignore
+
+# Development dependencies
+node_modules/
+
+# Documentation
+*.md
+!README.md
+
+# Tests
+**/*.test.ts
+**/*.test.tsx
+**/*.spec.ts
+**/*.spec.tsx
+
+# Build artifacts
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
