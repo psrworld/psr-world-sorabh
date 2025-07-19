@@ -1,3 +1,5 @@
+# npm ignore
+.npmignore
 # Dependencies
 node_modules/
 
